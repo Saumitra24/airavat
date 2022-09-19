@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="airavat",
-    version="0.0.15",
+    version="0.0.32",
     author="Saumitra Rawat",
     author_email="saumitra.rawat@gmail.com",
     description="Audit Utilities for Azure Data Factory- To find the common engineering hacks and reduce manual "
